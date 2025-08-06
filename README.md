@@ -1,0 +1,1 @@
+This is the optimal solution for the given problem in the leetcode platform.
